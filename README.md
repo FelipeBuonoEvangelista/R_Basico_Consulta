@@ -1,7 +1,14 @@
 #R-Consulta-de-Funcoes
 
 #Descrição
+
 Este repositório contém um arquivo em linguagem R que serve como uma referência abrangente para diversas funções do R. O objetivo é proporcionar uma fonte única e fácil de consultar para várias tarefas comuns, incluindo joins, documentação de funções, instalação de pacotes, manipulação de vetores, fatores, listas, data frames, matrizes, estruturas de repetição, controle de fluxo, funções essenciais como "lapply", "tapply", "sapply", gráficos, seleção e transformação de dados.
+
+R_Para_Consulta.R: Código contendo diversos comendos em R para posterior estudo ou revisão.
+
+viagens _a_servico.R: código com um exemplo que visa entender os gastos com viagens a serviço para tomar medidas mais eficientes e, com isso, reduzir os custos das viagens a serviço.
+
+Prevendo_a_ocorrência_de_diabetes.R: Identificar pacientes com alta probabilidade de serem diagnosticados com diabetes, tendo, no mínimo, 75% de acurácia.
 
 #Funcionalidades
 
